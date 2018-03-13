@@ -1,4 +1,4 @@
-# react-native-image-search-demo
+# React Native Image Search App.
 Using PixaBay Api, managed to create an app to show images. 
 
 ## Running the app. 
