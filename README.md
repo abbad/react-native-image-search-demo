@@ -1,4 +1,4 @@
-# react-native-image-search-demo
+# React Native Image Search App
 Using PixaBay Api, managed to create an app to show images. 
 
 ## Running the app. 
@@ -21,6 +21,5 @@ Install x-code via this link
 ## Navigating To Image detail 
 ![alt text](https://github.com/abbad/react-native-image-search-demo/blob/master/readme_assets/images-to-image-details.gif "Navigating To Image detail")
 
-## Support for vertical and horizontal 
+## Support for Portrait and Landscape Modes
 ![alt text](https://github.com/abbad/react-native-image-search-demo/blob/master/readme_assets/vertical-horizontal.gif "Support for vertical and horizontal")
-
