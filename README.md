@@ -14,6 +14,7 @@ Install x-code via this link
 `http://www.macinstruct.com/node/494`
 
 
+# Features 
 
 ## Infinite Scroll
 ![alt text](https://github.com/abbad/react-native-image-search-demo/blob/master/readme_assets/home_page%2Binfinite-scroll.gif "Infinite Scroll Demo")
