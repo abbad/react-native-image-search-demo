@@ -3,15 +3,12 @@ Using PixaBay Api, managed to create an app to show images.
 
 ## Running the app. 
 
-`Make sure to have Npm 4.6.1 Node v9.5.0. `
+`Make sure to have Npm 4.6.1 Node v9.5.0. Also install xcode and the simulators `
 1. npm install -g create-react-native-app
 2. brew install watchman
 2. npm install
 3. npm start
 
-## Simulators:
-Install x-code via this link 
-`http://www.macinstruct.com/node/494`
 
 
 # Features 
